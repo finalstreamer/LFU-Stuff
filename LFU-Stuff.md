@@ -41,8 +41,8 @@ ipa安装包[百度网盘]：详见文章后面百度网盘链接 </br>
 
 ## 如何安装
 安装方式有两种：</br>
-免费安装方式：《基于AltStore的自签教程》，详见文章后面百度网盘链接。 </br>
-付费安装方式：淘宝搜宝贝关键字 "ipa签名安装"，咨询相关店主。 </br>
+免费安装方式：根据文章最后的参考资料《基于AltStore的自签教程》安装。 </br>
+付费安装方式：淘宝搜索宝贝关键字 "ipa签名安装"，咨询相关店主并获取IAP。 然后根据文章最后的参考资料《基于iMazing的IPA安装教程》安装。</br>
 
 ### 免费安装方式
 需要满足这两个条件：</br>
@@ -127,6 +127,7 @@ ipa安装包[百度网盘]：详见文章后面百度网盘链接 </br>
 
 ## 参考资料
 * 基于AltStore的自签教程: https://github.com/livefaceu/AltStore-HowTo/blob/main/AltStore-HowTo.md
+* 基于iMazing的IPA安装教程: https://github.com/finalstreamer/iMazing-Howto.git
 * LFUKit: https://github.com/livefaceu/LFUKit
 * LFUKit-Demo: https://github.com/livefaceu/LFUKitDemo
 * NWAKit: https://github.com/samplebuffer/NWAKit
