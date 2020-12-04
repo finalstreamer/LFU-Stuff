@@ -1,6 +1,7 @@
-# 地表最强之直播美颜篇
+# 地表最强之iOS直播美颜篇
 
-本文出处: https://github.com/finalstreamer/LFU-Stuff/blob/main/LFU-Stuff.md
+本文出处: https://github.com/finalstreamer/LFU-Stuff/blob/main/LFU-Stuff.md </br>
+如果访问异常，可访问百度网盘查看相同备份文档，链接: https://pan.baidu.com/s/1Y7eR2V958YJWrzWclSs7ag 提取码: 6j8n </br>
 
 ## 目录
 
